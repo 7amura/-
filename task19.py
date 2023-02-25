@@ -10,3 +10,5 @@ list = [randint(1,10) for i in range(1,10)]
 print (list)
 k = int(input('Enter k: '))
 print(list[-k:len(list)] + list[:-k])
+
+  
